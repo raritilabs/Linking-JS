@@ -6,3 +6,7 @@ body{
     background-color: brown;
     font-family: sans-serif;
 }
+p{
+    font-weight: bold;
+    text-align: center;
+}
